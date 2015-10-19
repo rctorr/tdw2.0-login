@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
      <link rel="stylesheet" href="css/main.css">
-   <title>Base</title>
+   <title>Inicio</title>
 </head>
 
 <body>
@@ -19,11 +19,11 @@
     </header>
 
         <div id="contenido">
+            <p>Felicidades, bienvenido al mi mundo!</p>
         </div>  <!--termina contenido-->
 
         <footer>
-             <p>Adios <span class="muted"> Gacias por tu visita... </span> vuelve pronto</p>
-
+             <p>Copyleft: TDW2.0</p>
         </footer>
 
 </body>
